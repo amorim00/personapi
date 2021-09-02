@@ -10,6 +10,6 @@ public class PersonController {
 
     @GetMapping
     public String getBook(){
-        return "API com Maven";
+        return "API do Cadinho";
     }
 }
